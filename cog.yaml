@@ -1,0 +1,19 @@
+# Configuration for Cog
+build:
+  gpu: true
+  python_version: "3.10"
+  python_packages:
+    - "torch"
+    - "diffusers"
+    - "transformers"
+    - "accelerate"
+    - "xformers"
+    - "transparent_background"
+    - "opencv-python-headless"
+  system_packages:
+    - "ffmpeg"
+    - "libsm6"
+    - "libxext6"
+
+# predict.py defines how predictions are run on your model
+predict: "predict.py:Predictor"
