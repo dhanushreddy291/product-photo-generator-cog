@@ -12,6 +12,9 @@ Then, you can run predictions:
 
 ## Example:
 
+### Input image
+![Input Image](input.png)
+
 "A Shoe on a marble podium, product photography, high resolution"
 
 ![A Shoe on a marble podium, product photography, high resolution](out-0.png)
