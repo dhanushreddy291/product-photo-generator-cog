@@ -1,4 +1,4 @@
-# stabilityai/sdxl-turbo
+# yahoo-inc/photo-background-generation
 
 This is an implementation of the [yahoo-inc/photo-background-generation](https://huggingface.co/yahoo-inc/photo-background-generation) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
